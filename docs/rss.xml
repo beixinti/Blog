@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北新桥</title><link>https://beixinti.github.io/blog</link><description>北新的个人博客：Moment stolen taste better</description><copyright>北新桥</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/beixinti/blog/assets/95170151/8c7ad443-7262-4663-bb03-570f6fab4ea3</url><title>avatar</title><link>https://beixinti.github.io/blog</link></image><lastBuildDate>Tue, 25 Jun 2024 09:38:29 +0000</lastBuildDate><managingEditor>北新桥</managingEditor><ttl>60</ttl><webMaster>北新桥</webMaster><item><title>导航</title><link>https://beixinti.github.io/blog/guide.html</link><description>### [📺 bilibili](https://space.bilibili.com/196220308)&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北新桥</title><link>https://beixinti.github.io</link><description>北新的个人博客：Moment stolen taste better</description><copyright>北新桥</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/beixinti/blog/assets/95170151/8c7ad443-7262-4663-bb03-570f6fab4ea3</url><title>avatar</title><link>https://beixinti.github.io</link></image><lastBuildDate>Tue, 25 Jun 2024 10:08:19 +0000</lastBuildDate><managingEditor>北新桥</managingEditor><ttl>60</ttl><webMaster>北新桥</webMaster><item><title>导航</title><link>https://beixinti.github.io/guide.html</link><description>### [📺 bilibili](https://space.bilibili.com/196220308)&#13;
 ### [🎵 云音乐](https://y.music.163.com/m/user?id=7818048747)&#13;
 ### [🎮 Steam](https://steamcommunity.com/id/beixin/)&#13;
-### [🟦 知乎](https://www.zhihu.com/people/85-98-97-23-91)。</description><guid isPermaLink="true">https://beixinti.github.io/blog/guide.html</guid><pubDate>Tue, 25 Jun 2024 08:37:49 +0000</pubDate></item><item><title>友链</title><link>https://beixinti.github.io/blog/link.html</link><description>## 北新提供的服务&#13;
+### [🟦 知乎](https://www.zhihu.com/people/85-98-97-23-91)。</description><guid isPermaLink="true">https://beixinti.github.io/guide.html</guid><pubDate>Tue, 25 Jun 2024 08:37:49 +0000</pubDate></item><item><title>友链</title><link>https://beixinti.github.io/link.html</link><description>## 北新提供的服务&#13;
 &#13;
 ### [📗 博客](https://blog.beixinqiao.top/)&#13;
 ### [📂 图床](https://image.beixinqiao.top/)&#13;
@@ -16,4 +16,4 @@
 - name: 北新桥&#13;
 - desc: 北新的个人博客&#13;
 - url: http://blog.beixinqiao.top&#13;
-```。</description><guid isPermaLink="true">https://beixinti.github.io/blog/link.html</guid><pubDate>Tue, 25 Jun 2024 09:11:19 +0000</pubDate></item></channel></rss>
+```。</description><guid isPermaLink="true">https://beixinti.github.io/link.html</guid><pubDate>Tue, 25 Jun 2024 09:11:19 +0000</pubDate></item></channel></rss>
