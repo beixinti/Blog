@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北新桥</title><link>http://blog.beixinqiao.top</link><description>北新的个人博客：Moments stolen taste bеtter</description><copyright>北新桥</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/beixinti/blog/assets/95170151/8c7ad443-7262-4663-bb03-570f6fab4ea3</url><title>avatar</title><link>http://blog.beixinqiao.top</link></image><lastBuildDate>Tue, 25 Jun 2024 09:16:46 +0000</lastBuildDate><managingEditor>北新桥</managingEditor><ttl>60</ttl><webMaster>北新桥</webMaster><item><title>导航</title><link>http://blog.beixinqiao.top/guide.html</link><description>### [📗 博客](https://blog.beixinqiao.top/)&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北新桥</title><link>https://beixinti.github.io/blog</link><description>Moments stolen taste bеtter</description><copyright>北新桥</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/beixinti/blog/assets/95170151/8c7ad443-7262-4663-bb03-570f6fab4ea3</url><title>avatar</title><link>https://beixinti.github.io/blog</link></image><lastBuildDate>Tue, 25 Jun 2024 09:29:15 +0000</lastBuildDate><managingEditor>北新桥</managingEditor><ttl>60</ttl><webMaster>北新桥</webMaster><item><title>导航</title><link>https://beixinti.github.io/blog/guide.html</link><description>### [📗 博客](https://blog.beixinqiao.top/)&#13;
 ### [📂 图床](https://image.beixinqiao.top/)&#13;
 ### [🚀 加速服务](https://booster.beixinqiao.top/)&#13;
 &#13;
@@ -12,7 +12,7 @@
 &#13;
 ---&#13;
 &#13;
-### [📧 邮箱](mailto:beixinti@foxmail.com)。</description><guid isPermaLink="true">http://blog.beixinqiao.top/guide.html</guid><pubDate>Tue, 25 Jun 2024 08:37:49 +0000</pubDate></item><item><title>友链</title><link>http://blog.beixinqiao.top/link.html</link><description>## 友链&#13;
+### [📧 邮箱](mailto:beixinti@foxmail.com)。</description><guid isPermaLink="true">https://beixinti.github.io/blog/guide.html</guid><pubDate>Tue, 25 Jun 2024 08:37:49 +0000</pubDate></item><item><title>友链</title><link>https://beixinti.github.io/blog/link.html</link><description>## 友链&#13;
 &#13;
 &#13;
 &#13;
@@ -30,4 +30,4 @@
 - name: 北新桥&#13;
 - desc: 北新的个人博客&#13;
 - url: http://blog.beixinqiao.top&#13;
-```。</description><guid isPermaLink="true">http://blog.beixinqiao.top/link.html</guid><pubDate>Tue, 25 Jun 2024 09:11:19 +0000</pubDate></item></channel></rss>
+```。</description><guid isPermaLink="true">https://beixinti.github.io/blog/link.html</guid><pubDate>Tue, 25 Jun 2024 09:11:19 +0000</pubDate></item></channel></rss>
