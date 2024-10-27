@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北新桥</title><link>http://blog.beixinqiao.top</link><description>北新的个人博客</description><copyright>北新桥</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://booster.beixinqiao.top/https://image.beixinqiao.top/file/df3a320b9454781b3c8b3.png</url><title>avatar</title><link>http://blog.beixinqiao.top</link></image><lastBuildDate>Sun, 27 Oct 2024 16:34:04 +0000</lastBuildDate><managingEditor>北新桥</managingEditor><ttl>60</ttl><webMaster>北新桥</webMaster><item><title>9A 刷机心得</title><link>http://blog.beixinqiao.top/post/11.html</link><description>1. 如果解锁要等 168，就深刷 MIUI12(A10)，然后再强解，教程很多不再赘述。</description><guid isPermaLink="true">http://blog.beixinqiao.top/post/11.html</guid><pubDate>Tue, 22 Oct 2024 08:09:21 +0000</pubDate></item><item><title>🔖  iTab主页图标导出为HTML格式书签</title><link>http://blog.beixinqiao.top/post/10.html</link><description>## 1. 所需工具：&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北新桥</title><link>http://blog.beixinqiao.top</link><description>北新的个人博客</description><copyright>北新桥</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://booster.beixinqiao.top/https://image.beixinqiao.top/file/df3a320b9454781b3c8b3.png</url><title>avatar</title><link>http://blog.beixinqiao.top</link></image><lastBuildDate>Sun, 27 Oct 2024 16:35:02 +0000</lastBuildDate><managingEditor>北新桥</managingEditor><ttl>60</ttl><webMaster>北新桥</webMaster><item><title>蛋挞的内心是什么颜色的？</title><link>http://blog.beixinqiao.top/post/12.html</link><description>我们聊到蛋挞的内心是什么颜色时，我的朋友说「蛋挞的内心，是黄色的吧」
+从他的语气看，他也不敢肯定
+
+而我此时一口咬定：「蛋挞的内心是橘色的！」朋友即使再说「我以前吃过几次蛋挞，我觉得那是黄色的」
+我也会一再肯定「蛋挞的内心是橘色的」
+
+许久之后，蛋挞逐渐能在街头巷尾见到，成了很流行的点心。</description><guid isPermaLink="true">http://blog.beixinqiao.top/post/12.html</guid><pubDate>Sun, 27 Oct 2024 16:26:40 +0000</pubDate></item><item><title>9A 刷机心得</title><link>http://blog.beixinqiao.top/post/11.html</link><description>1. 如果解锁要等 168，就深刷 MIUI12(A10)，然后再强解，教程很多不再赘述。</description><guid isPermaLink="true">http://blog.beixinqiao.top/post/11.html</guid><pubDate>Tue, 22 Oct 2024 08:09:21 +0000</pubDate></item><item><title>iTab主页图标导出为HTML格式书签</title><link>http://blog.beixinqiao.top/post/10.html</link><description>## 1. 所需工具：&#13;
 &#13;
 • VSCode&#13;
 &#13;
@@ -11,9 +17,9 @@
 &#13;
 ### 删除iTab自带小部件&#13;
 &#13;
-如图所示iTab自的小部件，所有点开是弹窗而不是直接跳转网页的图标，全部都需要删除。</description><guid isPermaLink="true">http://blog.beixinqiao.top/post/10.html</guid><pubDate>Wed, 31 Jul 2024 16:28:23 +0000</pubDate></item><item><title>🖼️ 壁纸引擎开机启动 并记录Steam游戏时长教程（全网首发 图文详解）</title><link>http://blog.beixinqiao.top/post/9.html</link><description>## 原理&#13;
+如图所示iTab自的小部件，所有点开是弹窗而不是直接跳转网页的图标，全部都需要删除。</description><guid isPermaLink="true">http://blog.beixinqiao.top/post/10.html</guid><pubDate>Wed, 31 Jul 2024 16:28:23 +0000</pubDate></item><item><title>壁纸引擎开机启动 并记录Steam游戏时长教程（全网首发 图文详解）</title><link>http://blog.beixinqiao.top/post/9.html</link><description>## 原理&#13;
 &#13;
-开机静默启动Steam，Steam自动打开壁纸引擎，并开始游玩壁纸引擎并记录时长。</description><guid isPermaLink="true">http://blog.beixinqiao.top/post/9.html</guid><pubDate>Wed, 31 Jul 2024 13:49:21 +0000</pubDate></item><item><title>🍜 阿宽勾魂面 蒜蓉蚝汁风味品尝</title><link>http://blog.beixinqiao.top/post/8.html</link><description>酱闻起来是蒜蓉味，和煮好的面条拌好了再闻起来，是铁板豆腐味。</description><guid isPermaLink="true">http://blog.beixinqiao.top/post/8.html</guid><pubDate>Wed, 31 Jul 2024 11:37:34 +0000</pubDate></item><item><title>一键禁用/启用笔记本自带键盘</title><link>http://blog.beixinqiao.top/post/7.html</link><description>此方法可用于需要把外接键盘放在笔记本上面的情况&#13;
+开机静默启动Steam，Steam自动打开壁纸引擎，并开始游玩壁纸引擎并记录时长。</description><guid isPermaLink="true">http://blog.beixinqiao.top/post/9.html</guid><pubDate>Wed, 31 Jul 2024 13:49:21 +0000</pubDate></item><item><title>一键禁用/启用笔记本自带键盘</title><link>http://blog.beixinqiao.top/post/7.html</link><description>此方法可用于需要把外接键盘放在笔记本上面的情况&#13;
 &#13;
 ## [懒人成品下载](https://www.123pan.com/s/bB49-Gbgd3.html)&#13;
 &#13;
@@ -71,10 +77,7 @@
 &#13;
 ## 解读&#13;
 &#13;
-1. `chcp 65001`：将命令行窗口的字符编码设置为UTF-8编码，确保中文文本输出正确显示。</description><guid isPermaLink="true">http://blog.beixinqiao.top/post/7.html</guid><pubDate>Wed, 31 Jul 2024 11:30:55 +0000</pubDate></item><item><title>🍔 汉堡王 在售皇堡品尝</title><link>http://blog.beixinqiao.top/post/6.html</link><description>## 明星皇堡&#13;
-&#13;
-评分：3/5&#13;
-购买攻略：淘宝225r/18个皇堡，吃不完自动退。</description><guid isPermaLink="true">http://blog.beixinqiao.top/post/6.html</guid><pubDate>Mon, 29 Jul 2024 07:11:58 +0000</pubDate></item><item><title>关于</title><link>http://blog.beixinqiao.top/about.html</link><description>## 社媒&#13;
+1. `chcp 65001`：将命令行窗口的字符编码设置为UTF-8编码，确保中文文本输出正确显示。</description><guid isPermaLink="true">http://blog.beixinqiao.top/post/7.html</guid><pubDate>Wed, 31 Jul 2024 11:30:55 +0000</pubDate></item><item><title>关于</title><link>http://blog.beixinqiao.top/about.html</link><description>## 社媒&#13;
 &#13;
 ### [🎮 Steam](https://steamcommunity.com/profiles/76561199078382100/)&#13;
 ### [🎵 云音乐](https://y.music.163.com/m/user?id=7818048747)&#13;
